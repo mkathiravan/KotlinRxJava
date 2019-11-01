@@ -21,3 +21,8 @@ Before we get into the details of each of the above, let’s analyze each of the
 Let’s say the Observables is me the tutor, flowing the data.
 You are the Observer/Subscriber who receives the data.
 Additionally, Operators can transform the data that you receive from me. Example: An operator can change the default language of this tutorial data from English to any other language.
+
+In this project I explained how to use Rxjava+Retrofit using kotlin language. 
+
+
+![image](https://user-images.githubusercontent.com/39657409/68011811-4d209200-fcae-11e9-974d-0d415235272f.png)
